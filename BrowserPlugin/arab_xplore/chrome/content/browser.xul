@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://texthighlighter/skin/skin.css" type="text/css"?> 
+<!DOCTYPE texthighlighter SYSTEM "chrome://texthighlighter/locale/translations.dtd">
+<overlay id="text-highlighter-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+		<script src="textHighlighter.js" />
+		
+		<toolbarpalette id="BrowserToolbarPalette">
+			<toolbarbutton id="text-highlighter-toolbar-button" class="toolbarbutton-1 chromeclass-toolbar-additional" label="Text Highlighter" tooltiptext="&runtexthighlighter;" oncommand="textHighlighter()"/>
+		</toolbarpalette>
+</overlay>

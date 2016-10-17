@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+ 
+<prefwindow 
+     id="text-highlighter-preferences"
+     title="Text Highlighter Preferences"
+     xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+ 
+	<prefpane label="Text Highlighter Preferences">
+		<preferences>
+			<preference id="text-highlighter-foreground" name="extensions.texthighlighter.foreground" type="string"/>
+			<preference id="text-highlighter-background" name="extensions.texthighlighter.background" type="string"/>
+		</preferences>
+		
+		<groupbox>
+			<caption label="Highlight Color Settings"/>
+			<grid>
+				<columns>
+					<column flex="1"/>
+					<column flex="3"/>
+				</columns>
+				<rows>
+					<row>
+						<label control="foreground" value="Foreground"/>
+						<colorpicker id="foreground" preference="text-highlighter-foreground"/>
+					</row>
+					<separator class="groove"/>
+					<row>
+						<label control="background" value="Background"/>
+						<colorpicker id="background" preference="text-highlighter-background"/>
+					</row>
+				</rows>
+			</grid>
+		</groupbox>	
+		
+	</prefpane>
+ 
+</prefwindow>

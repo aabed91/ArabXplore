@@ -1,0 +1,8 @@
+content     texthighlighter    chrome/content/
+content     texthighlighter    chrome/content/ contentaccessible=no
+overlay chrome://browser/content/browser.xul chrome://texthighlighter/content/browser.xul
+
+locale	texthighlighter	en-US	locale/en-US/
+
+skin	texthighlighter	classic/1.0	skin/
+style	chrome://global/content/customizeToolbar.xul	chrome://texthighlighter/skin/skin.css

@@ -1,0 +1,75 @@
+العناصر الفلزية
+5 R:الجدول الدوري,1.0,5,
+3 R:المعدن,0.46680465339750427,3,
+3 R:عنصر كيميائي,0.4621539434068639,3,
+3 R:الدورة,0.40117795623427316,3,
+2 R:الزئبق,0.36836460765265766,2,
+2 R:صلب,0.3609252665490144,2,
+R:نبات,0.2535178876170034,2,
+2 R:النيكل,0.22070453903538806,2,
+5 R:الفلزات القلوية,0.0,1,
+R:تقنية,0.0,1,
+R:سهيلة,0.0,1,
+R:سكانديوم,0.0,1,
+R:الدول العربية,0.0,1,
+R:البلاتين,0.0,1,
+R:رواسب,0.0,1,
+R:الفلزات,0.0,1,
+R:الطرق,0.0,1,
+R:الحلبة,0.0,1,
+R:الانجليزية,0.0,1,
+3 R:العنصر الكيميائي,0.0,1,
+4 R:الفلز,0.0,1,
+R:الله,0.0,1,
+R:الطالب,0.0,1,
+R:المعادن,0.0,1,
+R:موصل,0.0,1,
+
+
+
+S:الفلز (بالإنجليزية: metal) (يسمى في بعض الدول العربية بالمعدن) في علم الكيمياء 
+كلمة فلز metal (الأصل الإغريقي : ميتالون) تعنى العنصر الكيميائي الذي يفقد ...
+S:Most elements are metals. This group includes the alkali metals, alkaline earth 
+metals, transition metals, basic metals, and rare earth elements.
+S:تصنيف:العناصر الفلزية. من ويكيبيديا، الموسوعة الحرة. اذهب إلى: تصفح،    ابحث. 
+Go-up.svg. لمزيد من المعلومات، انظر العناصر الفلزية. لمزيد من المعلومات، انظر ...
+S:A heavy metal, broadly speaking, is any relatively dense metal. More specific 
+definitions have been proposed but no definition has obtained widespread ...
+S:الجدول الدوري للفلزات واللافلزات هو تقسيم للعناصر طبقا لكونها فلزية أو لافلزية . 
+المجموعة · 1 · 2 · 3 · 4 · 5 · 6 · 7 · 8 · 9 · 10 · 11 · 12 · 13 · 14 · 15 · 16 · 17 · 18 · الدورة.
+S:16 آذار (مارس) 2011 ... الطالب يقدم عرض لخصائص الفلزات. ... خصائص العناصر الفلزية ( الطرق و السحب).ا.
+wmv. بن دقيق العيد. SubscribeSubscribedUnsubscribe 8484.
+S:25 أيلول (سبتمبر) 2014 ... إن العناصر تقسم إلى فلزات ولا فلزات وأشباه الفلزات، بناء على خصائص معينة، 
+حيث يطلق على كل عنصر لامع صلب – باستثناء الزئبق - موصل ...
+S:Periodic Table or Periodic Chart of Elements showing the Non-Metals or Non-
+metallic Elements.
+S:A toxic heavy metal is any relatively dense metal or metalloid that is noted for its 
+potential ... the administration of chelating agents. Some elements otherwise 
+regarded as toxic heavy metals are essential, in small quantities, for human 
+health.
+S:الفصل الرابع : الجدول الدوري. الفلزات واللافلزات في الجدول الدوري : تعلم أن في 
+الجدول الدوري ( 8 ) مجموعات. جميع عناصر المجموعة الأولى والثانية فلزات. جميع عناصر ...
+S:Boiling Point: 5627.0 °C (5900.15 K, 10160.6 °F) Number of Protons/Electrons: 
+75. Number of Neutrons: 111. Classification: Transition Metal Crystal Structure: ...
+S:تعلم أن هنالك ( 92 ) عنصراً موجوداً في الطبيعة. يمكن تصنيفها إلى صنفين هما الفلزات 
+واللافلزات. معظم العناصر فلزات، ويوجد حوالي 20 عنصراً تنتمي إلى اللافلزات، ...
+S:To describe the epidemiology of adverse effects of heavy metals ... Within the 
+European community, the 13 elements of highest concern are As, Cd, Co, Cr, Cu,
+ ...
+S:تقييم وتقييس العناصر الفلزية الرئيسية المكونة لنبات الحلبة باستخدام تقنية 
+الامتصاص الذري. جنان حسين محمد, سهيلة كاظم صيهود, عبد الله سامي مطلك, مهند زهير ...
+S:3. Transition elements. 1. Metals. 2. Almost all: HARD, STRONG, High m.p., b.p.. 
+3. Conduct heat & electricity. 4. Form Alloys. 5. Show variable oxidation states.
+S:... الصخور، فعلى سبيل المثال رواسب النيكل ومجموعة عناصر البلاتين تتواجد عادة 
+في ... حيث يبلغ عدد المواقع المعدنية الفلزية (2424 موقعاً) وتشكل ما نسبته 47% من
+ ...
+S:جرت محاولات عدة لترتيب العناصر الكيميائية وفق صفات مشتركة بينها , وكان من 
+أبرز هذه ... وكذلك عناصر المجموعة IIA والتي تسمى عناصر الفلزات القلوية الأرضية.
+S:Figure 21.1 The Position of the Transition Elements on the Periodic Table. 
+Complex Ions . . . species where the transition metal ion is surrounded by a 
+certain ...
+S:4 شباط (فبراير) 2016 ... تضم هذه المجموعة العناصر (Be, Mg, Ca, Sr, Ba, Ra) وتعرف بالمعادن القلوية الأرضية 
+Metals Alkali Earth وحالة الأكسدة المميزة لها هي الثنائية .
+S:كما تعرفها ايوپاك، العناصر الأرضية النادرة rare earth elements أو الفلزات الأرضية 
+النادرة هي مجموعة من سبعة عشر عنصر كيميائي في الجدول الدوري، وهم سكانديوم، ...
+NDCG:0.8963063398046777

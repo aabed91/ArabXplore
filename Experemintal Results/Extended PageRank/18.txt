@@ -1,0 +1,75 @@
+ويكيليكس
+2 R:سوريا,1.0,5,
+5 R:بنما,0.8847193948498501,5,
+1 R:ليبيا,0.714745591253187,4,
+1 R:محافظة حماة,0.6192414777509646,4,
+1 R:سفارة,0.36401639070137737,2,
+2 R:دبلوماسية,0.2472074306944376,2,
+3 R:طهران,0.1080263475658939,1,
+1 R:الضوء,0.0,1,
+1 R:الاكوادور,0.0,1,
+2 R:منظمة دولية,0.0,1,
+1 R:نمر النمر,0.0,1,
+2 R:قناة العربية,0.0,1,
+1 R:الخوف,0.0,1,
+1 R:وزارة الخارجية السعودية,0.0,1,
+1 R:الشيعي,0.0,1,
+1 R:التبشير,0.0,1,
+3 R:زين العابدين,0.0,1,
+1 R:نية,0.0,1,
+1 R:تركيز,0.0,1,
+2 R:الفساد,0.0,1,
+1 R:صحفية,0.0,1,
+1 R:الارض,0.0,1,
+1 R:الله,0.0,1,
+1 R:كاتب,0.0,1,
+3 R:ايران,0.0,1,
+1 R:بدا,0.0,1,
+1 R:المياه العذبة,0.0,1,
+1 R:مالا,0.0,1,
+1 R:نار,0.0,1,
+
+
+
+S:Publishes and comments on leaked documents alleging government and 
+corporate misconduct.
+S:ويكيليكس هي منظمة دولية غير ربحية تنشر تقارير وسائل الإعلام الخاصة والسرية من 
+مصادر صحفية وتسريبات أخبارية مجهولة. بدأ موقعها على الإنترنت سنة 2006 تحت ...
+S:WikiLeaks /ˈwɪkiliːks/ is an international, non-profit, journalistic organisation, 
+that publishes secret information, news leaks, and classified media from ...
+S:ويكيليكس: الأمير نايف سعى إلى مواجهة الملك علناً لخفضه المخصصات المالية لأفراد ... 
+ويكيليكس: الحكومة الإيرانية سعت لتجنيد مدير مكتب قناة العربية في طهران للعمل ...
+S:We are of assistance to peoples of all countries who wish to reveal unethical 
+behavior in their governments and institutions. We aim for maximum political ...
+S:رأي: ويكيليكس أشعلت نار الغضب على زين العابدين بن علي فهل تمهد "أوراق بنما ... 
+مؤسس ويكيليكس يعلن نيته الخروج من حماية سفارة الإكوادور بلندن إن كان قرار لجنة " ...
+S:كشف تقرير سري نشره موقع "ويكيليكس" المثير للجدل أن المياه العذبة الصالحة 
+للشرب ستختفي من الأرض بحلول العام 2050 بسبب تركيز النظام الغذائي في الغرب
+ ...
+S:ويكيليكس العربية تنقل لك الحدث بالكلمة لتكمل عندك الصورة وتنشر مالا ينشره 
+الأخرون.
+S:20 حزيران (يونيو) 2015 ... نشر موقع "ويكيليكس" للتسريبات المملوك لجوليان أسانج أكثر من 60 ألف وثيقة 
+دبلوماسية لوزارة الخارجية السعودية، قائلا إنه سيعرض أكثر من نصف ...
+S:WikiLeaks is a non-profit media organization dedicated to bringing important 
+news and information to the public. We provide an innovative, secure and ...
+S:WikiLeaks is a non-profit media organization dedicated to bringing important 
+news and information to the public. We provide an innovative, secure and ...
+S:27 تموز (يوليو) 2010 ... يعتبر موقع ويكيليكس -كما يقول القائمون عليه- موقعا للخدمة العامة مخصصا لحماية 
+الأشخاص الذي يكشفون الفضائح والأسرار التي تنال من المؤسسات أو ...
+S:Jan 13, 2011 ... But we might also count Tunisia as the first time that WikiLeaks pushed people 
+over the brink. These protests are also about the country's utter ...
+S:ويكيليكس حماة - Wikileaks Hama  ,   حماة  . 19207 likes · 395 talking about this.   
+تسليط الضوء على الفساد والتجاوزات القانونية والأمنية في محافظة حماة.....
+S:The latest Tweets from WikiLeaks (@wikileaks). We open governments. Contact: 
+https://t.co/676V6mG02v PGP: A04C 5E09 ED02 B328 03EB 6116 93ED 732E ...
+S:في عام 2006، أسس أسانج موقع ويكيليكس، الذي يهتم بنشر الوثائق والصور، والذي 
+تصدر عناوين الصحف في أنحاء العالم في أبريل/ نيسان عام 2010 حينما نشر لقطات ...
+S:5 كانون الثاني (يناير) 2016 ... ونشرت المجلة مقتطفات من وثائق ويكيليكس. وحسب إحدى الوثائق، فقد حاول نمر النمر "
+بإصرار إبعاد نفسه عن صورة كونه عميلا لإيران". وأضاف كاتب ...
+S:WikiLeaks rep: Julian Assange would find life no easier under President Clinton 
+... Michael Ratner, attorney for WikiLeaks and Julian Assange, dies at 72.
+S:ويكيليكس 17فبراير  ,   ليبيا  .     107472   إعجابًا · يتحدث   13326   عن هذا  .   الله 
+اكبر هده الصفحة الاحتياطية ويكيليكس فبراير لله ثم الوطن‏
+S:19 أيلول (سبتمبر) 2015 ... «ويكيليكس»: خطة أميركيّة لزعزعة سوريا منذ عام ٢٠٠٦. ﻿. يجب العمل لتركيز اهتمام 
+المنطقة على الخوف السني من النفوذ الايراني و«التبشير» الشيعي ...
+NDCG:0.8813522070240214

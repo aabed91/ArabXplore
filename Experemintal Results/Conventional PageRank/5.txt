@@ -1,0 +1,61 @@
+مايكروسوفت
+1 R:دولار,1.0,5,
+3 R:سطح المكتب,1.0,5,
+3 R:واشنطن,1.0,5,
+5 R:بيل غيتس,0.0,1,
+1 R:البريد الالكتروني,0.0,1,
+1 R:كلمة المرور,0.0,1,
+2 R:الولايات المتحدة الاميركية,0.0,1,
+1 R:الانجليزية,0.0,1,
+1 R:المنتج,0.0,1,
+3 R:تقنيات الحاسوب,0.0,1,
+1 R:بول,0.0,1,
+1 R:الكمبيوتر الشخصي,0.0,1,
+4 R:البرمجيات,0.0,1,
+1 R:الهاتف,0.0,1,
+
+
+
+S:At Microsoft our mission and values are to help people and businesses 
+throughout the world realize their full potential.
+S:شركة مايكروسوفت (بالإنجليزية: Microsoft Corporation) شركة دوليّة تعمل في مجال 
+تقنيات الحاسوب، يبلغ دخلها السنوي 44 مليار دولار، ويعمل بها 71,553 في 102 دولة.
+S:تتركز مهمتنا وقيمنا في Microsoft على مساعدة الأفراد والأعمال على مستوى العالم 
+للوصول بهم إلى أقصى إمكانيات لديهم.
+S:Microsoft Careers. ... Skip to main content. Microsoft logo Microsoft Careers · Sign 
+in; Careers profile management menu. Account central · Apply history · Help ...
+S:استخدم حساب Microsoft لتسجيل الدخول إلى منتجات Microsoft وخدماتها، وستتمكن من 
+الوصول إلى إعداداتك ودفتر عناوينك ومستنداتك من أي جهاز.
+S:Shop for the latest software and technology products from the Microsoft Store. 
+Experience the best of Microsoft with easy online shopping.
+S:Find out how Microsoft Security Essentials helps guard your PC against viruses, 
+spyware, and other malicious software and download Microsoft Security ...
+S:تأسست مجموعة مايكروسوفت للبرمجيات سنة 1975 المؤسس: بيل غيتس وبول ألن المقر 
+الرئيسي: ريدموند-واشنطن في الولايات المتحدة الأميركية. أهم الشخصيات: بيل ...
+S:حساب Microsoft. تسجيل الدخول. استخدم حساب Microsoft. ما هذا؟ البريد الإلكتروني أو 
+الهاتف. كلمة المرور. الاستمرار في تسجيل الدخول. ليس لديك حساب؟ أنشئ حسابًا!
+S:Learn about Windows 10, the latest devices, apps and games or find support.
+S:Microsoft. 8660032 likes · 25623 talking about this. Welcome to the official 
+Microsoft Facebook page, your source for news and conversation about...
+S:Microsoft Imagine Academy. Landing image ... Close. User Guide; FAQ; Contact 
+us; Privacy & Cookies; Terms of use; Trademarks; © 2016; Microsoft. Microsoft ...
+S:Welcome to the official Microsoft YouTube channel, your source for news about 
+Microsoft's consumer products and services.
+S:Microsoft Corporation /ˈmaɪkrəˌsɒft, -roʊ-, -ˌsɔːft/ is an American 
+multinational technology company headquartered in Redmond, Washington, that
+ ...
+S:Manage your Microsoft devices in one place. Sign in to your Microsoft account to 
+find your phone, get support, and get warranty info. Some services vary by ...
+S:Named one of the “Best Apps of 2015” by Google Play The real Microsoft Word 
+app for Android phones and tablets. Microsoft Word for Android is made for work
+ ...
+S:At Microsoft, we aim to empower every person and organization on the planet to 
+achieve more — and we empower our employees the same way. Everyone who
+ ...
+S:يقدم Office الأدوات اللازمة لإنجاز العمل، سواء على سطح المكتب أو على ويب وعلى أجهزة 
+Mac وأجهزة الكمبيوتر الشخصي. اطلع على معلومات المنتج أو سجّل الدخول إلى Office ...
+S:Established in 1991, Microsoft Research has become one of the largest, most 
+respected software research organizations in the world. More than 1000 ...
+S:Dec 8, 2015 ... Microsoft also provides information to help customers prioritize monthly security 
+updates with any non-security updates that are being released ...
+NDCG:0.7991727260114844

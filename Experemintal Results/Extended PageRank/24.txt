@@ -1,0 +1,60 @@
+السرطان
+5 R:السرطان,1.0,5,
+1 R:التعليم,0.23119992884356308,2,
+2 R:الانقسام الخلوي,0.0,1,
+1 R:فور,0.0,1,
+1 R:النسائي,0.0,1,
+1 R:اخيل,0.0,1,
+1 R:الادارة,0.0,1,
+1 R:الكشف,0.0,1,
+4 R:سرطان الثدي,0.0,1,
+1 R:المملكة المتحدة,0.0,1,
+3 R:اللقاحات,0.0,1,
+1 R:رقابة,0.0,1,
+4 R:جهاز المناعة,0.0,1,
+
+
+
+S:السرطان هو مجموعة من الأمراض التي تتميز خلاياها بالعدائية Aggressive (وهو النمو 
+والانقسام الخلوي غير المحدود)، وقدرة هذه الخلايا المنقسمة على غزو Invasion الأنسجة 
+المجاورة ...
+S:يشمل السرطان مجموعة من الامراض تتميز بنمو غير طبيعي للخلايا التي تنقسم بدون 
+رقابة. مرض السرطان هو احد الاسباب الرئيسية للوفاة في العالم الغربي. يتشكل.
+S:السرطان مصطلح عام يشمل مجموعة من الأمراض يمكنها أن تصيب كل أجزاء الجسم. ويُشار إلى 
+تلك الأمراض أيضاً بالأورام والأورام الخبيثة. ومن السمات التي تطبع السرطان التولّد ...
+S:5 آب (أغسطس) 2015 ... ما هو السرطان السرطان: هو عبارة عن أورام تصيب خلايا الجسم وتنمو وتنتشر في جميع 
+أنحاء الجسم بشكل مضطرب وتعمل على تدمير أنسجة الجسم، وهو من أشد ...
+S:Dedicated to helping persons who face cancer. Supports research, patient 
+services, early detection, treatment and education. Contact us anytime day or 
+night ...
+S:اعرف المزيد عن سرطان ( Cancer ), اسبابه و اعراضه و طرق علاجه و غيرها من الامراض 
+المتعلقة ب الاورام الخبيثة والحميدة من الطبي. انضم الآن إلى شبكة الطبي.
+S:وفقا لأبحاث التى اجريت على مرض السرطان في المملكة المتحدة، لا يمكن ان نمنع مرض 
+السرطان بنفس الطريقة التي نتعامل بها مع الأمراض الأخرى باستخدام اللقاحات ولي.
+S:Cancer is a group of diseases involving abnormal cell growth with the potential to 
+invade or spread to other parts of the body. Not all tumors are cancerous; ...
+S:At Cancer Research UK we pioneer research to bring forward the day when all 
+cancers are cured. With no government funding, our progress depends on your ...
+S:لتحمي نفسك من مرض السرطان الخطير الذي يهدد الجميع نقدم لك أبرز علامات الاصابة 
+بالسرطان لكي تأخذ حذرك وتتوجه للطبيب فور شعورك بأحد هذه الأعراض لتطمأن على ...
+S:6 شباط (فبراير) 2014 ... والسرطان تسمية عامة لمجموعة تضم أكثر من مائة نوع من الأمراض، وبالرغم من عددها الكبير 
+فإن جميع أنواع السرطان تحدث نتيجة حصول نمو غير طبيعي في ...
+S:أقامت الادارة النسائيه في وزارة التربية والتعليم بتعاون مع مركز عبداللطيف للكشف 
+المبكر عن السرطان فعالية الكشف المبكر عن سرطان الثدي في مقر الادارة النسائيه ...
+S:4 آذار (مارس) 2016 ... يعتقد علماء أنهم توصلوا إلى أسلوب لـ"توجيه" جهاز المناعة لكي يقتل السرطان، وهو 
+أسلوب ينطبق عليه مصطلح "عقب أخيل"، الذي يشير إلى نقطة ضعف ...
+S:Acute: Refers to symptoms that start and worsen quickly but do not last over a 
+long time.Benign: Refers to a tumor that is not cancerous. The tumor does not ...
+S:Start here for information on common types of cancer, including breast, lung, 
+colon, skin, prostate, and ovarian cancer. Get the facts on cancer symptoms, ...
+S:بعد مرور 38 عاما على إعلان الحكومة الأميركية الحرب على السرطان يبقى هذا المرض عدوا 
+مذهلا للإنسان.
+S:Credible, current cancer information from the U.S. National Cancer Institute.
+S:Mar 3, 2016 ... Over the past few years, immunotherapies – treatments which harness the power 
+of the immune system to fight cancer – have been making ...
+S:The World Health Organization's source for information about cancer. The 
+mission is to coordinate and conduct research on causes and to develop 
+scientific ...
+S:Cancer begins in your cells, which are the building blocks of your body. Normally, 
+your body forms new cells as you need them, replacing old cells that die.
+NDCG:0.8479094770434871

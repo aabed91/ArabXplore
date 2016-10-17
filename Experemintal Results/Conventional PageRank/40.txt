@@ -1,0 +1,53 @@
+الفيفا
+5 R:كرة القدم,1.0,5,
+2 R:مدريد,0.540540541139485,3,
+2 R:رايو فايكانو,0.0,1,
+R:الفرنسية,0.0,1,
+5 R:الفيفا,0.0,1,
+R:الانجليزية,0.0,1,
+
+
+
+S:الموقع الرسمي للهئية الدولية التي تدير كرة القدم العالمية و يتضمن الأخبار، الإتحادات 
+/ الجمعيات الوطنية، المسابقات، النتائج، المباريات، التطوير، التنظيم، التصنيف ...
+S:The official site of the international governing body of football with news, national 
+associations, competitions, results, fixtures, development, organisation, world ...
+S:الاتحاد الدولي لكرة القدم (بالفرنسية: Fédération Internationale de Football 
+Association)، ويعرف اختصارًا باسم الفيفا (بالإنجليزية: FIFA)، هي الهيئة المنظمة 
+للعبة ...
+S:The Official Site of EA SPORTS FIFA. Get all the latest news, blogs, trailers, 
+images and more from all FIFA games from EA SPORTS.
+S:The FIFA/Coca World Ranking - Find out where your team are in the latest 
+standings.
+S:FUT Draft is a new way to play FIFA Ultimate Team! Draft a squad and challenge 
+opponents in a tournament to win coins, packs, and more. Test your team ...
+S:FIFA, Zürich, Switzerland. 3097793 likes · 11199 talking about this. The Official 
+FIFA Facebook Page www.fifa.com.
+S:Official EA SPORTS Website. Get the latest FIFA Soccer news, updates and 
+downloads. See new features, videos and gameplay, and find exclusive offers.
+S:The Fédération Internationale de Football Association is the governing body of 
+association football, futsal and beach soccer. FIFA is responsible for the ...
+S:The Official FIFA App. Download the Official FIFA App to keep right up to date 
+with live scores from across the globe, breaking news and photos, and exclusive
+ ...
+S:Jan 5, 2016 ... The Official FIFA App Download the Official FIFA App to keep right up to date with 
+live scores from across the globe, breaking news and photos, ...
+S:FIFA video games from Electronic Arts, the source for the highest rated and 
+exciting titles like FIFA 12 and FIFA 11 from EA Sports.
+S:If you believe your FIFA Ultimate Team items are lost or missing in your Trade 
+Pile or Watch List, there could be a 48-hour delay for them to process and appear
+.
+S:became affiliated with FIFA in 1960, with Guam, American Samoa, and the United 
+States ... the world, including in the United States, where FIFA maintained.
+S:Let's keep this sub related to the FIFA videogame and not about real world soccer 
+news/videos outside of our designated weekend threads. Memes are not ...
+S:40.9K tweets • 11.2K photos/videos • 1.63M followers. "فيديو◅ "رايو فايكانو 
+ليس مجرد نادي، بل أسلوب حياة،" نظرة داخل النادي الثالث في مدريد ...
+S:The official website of the FIFA World Football Museum in Zurich, Switzerland.
+S:Welcome to the official web source for everything related to the FIFA 11+ Injury 
+prevention programme. Read the background and the scientific papers of the ...
+S:FIFA on YouTube brings you the best in football videos, including FIFA World 
+Cup™ highlights, classic stories, exclusive interviews, fantastic goals, documen...
+S:May 27, 2015 ... The outcome hinged on a decision by the executive committee of FIFA, soccer's 
+governing body, and a single vote could tip the decision.
+NDCG:0.8776694514297605

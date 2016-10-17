@@ -1,0 +1,58 @@
+﻿الحاسوب
+3 R:وظيفة,1.0,5,
+2 R:العقل,1.0,5,
+1 R:عربي,1.0,5,
+5 R:الكومبيوتر,1.0,5,
+5 R:حاسب شخصي,1.0,5,
+5 R:الحاسوب,1.0,5,
+5 R:الكمبيوتر,1.0,5,
+4 R:نظام التشغيل,1.0,5,
+3 R:الطباعة,1.0,5,
+5 R:الحاسب الالي,1.0,5,
+5 R:الحاسوب الشخصي,1.0,5,
+1 R:مفهوم,1.0,5,
+
+
+
+S:الحاسوب أو الحاسب الآلي أو الكمبيوتر أو الحاسب أو الرتّابة أو المنظام أو الكومبيوتر أو 
+العقل الإلكتروني أو المنظمة جهاز إلكتروني قادر على استقبال البيانات ومعالجتها إلى ...
+S:25 تشرين الثاني (نوفمبر) 2014 ... قام الحاسوب بتغيير الطّريقة الّتي كانت سائدة قديماً في إنجاز الأعمال؛ حيث أصبح أداء 
+أيّ وظيفة أو عمل سهلاً باستخدامه، وساهم الحاسوب أيضاً في تحسين ...
+S:A computer is a general purpose device that can be programmed to carry out a 
+set of arithmetic or logical operations automatically. Since a sequence of ...
+S:16 تشرين الثاني (نوفمبر) 2014 ... محتويات ١ مفهوم الحاسوب ٢ فوائد الحاسوب ٣ سلبيّات الحاسوب ٤ مشكلات عصر 
+الحاسوب ٥ خلاصة ٦ مراجع مفهوم الحاسوب الحاسوب: هو آلةٌ إلكترونيّة تعمل ...
+S:خطوات تجميع حاسب شخصي · مكونات الحاسوب الشخصي · برنامج الطباعة Win Word · 
+نظام التشغيل Windows · برنامج Microsoft FrontPage - عربي. برنامج إكسل Excel.
+S:The IEEE Computer Society is the world's premier organization of computing 
+professionals, with rich offerings in publications, standards, certifications, ...
+S:About this course: Computer graphics can be a powerful tool for supporting visual 
+problem solving, and interactivity plays a central role in harnessing the users' ...
+S:When Software Crosses a Line. April 26, 2016. After VW was caught 
+programming its diesel vehicles to cheat emissions tests, researchers ponder the
+ ...
+S:Software means computer instructions or data. Software can be categorized as 
+systems software (operating system) or applications software (word processors).
+S:As our society grows more dependent on computers, the software we run is of 
+critical importance to securing the future of a free society. Free software is about ...
+S:A computer is defined as a programmable machine. Computers respond to a 
+specific set of instructions in a well-defined manner and execute prerecorded ...
+S:This class teaches you about basic concepts in theoretical computer science -- 
+such as NP-completeness -- and what they imply for solving tough algorithmic ...
+S:The FSF is a charity with a worldwide mission to advance software freedom.
+S:Focuses exclusively on the history of computing. Located in Mountain View, 
+California. Search the collection, illustrated timeline, online exhibits and select ...
+S:We've helped 397010 buyers find the right software.
+S:Learn key computer science concepts in this introductory Python course. You'll 
+learn by doing, and will build your own search engine and social network.
+S:Our Digital Business Platform helps enterprises achieve digital transformation 
+with innovative business solutions.
+S:Software Carpentry is a volunteer non-profit organization dedicated to teaching 
+basic computing skills to researchers.
+S:This page is maintained by the Free Software Foundation's Licensing and 
+Compliance Lab. You can support our efforts by making a donation to the FSF. 
+Have a ...
+S:Find your next computer at Walmart.com. Shop laptops, desktops, netbooks, 
+ultrabooks and tablets at Every Day Low prices.
+
+NDCG:0.8033721602415774

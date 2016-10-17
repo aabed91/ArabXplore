@@ -1,0 +1,54 @@
+﻿شبكات الحاسوب
+5 R:الانترنت,1.0,5,
+5 R:الحاسوب,1.0,5,
+4 R:الاتصالات,1.0,5,
+3 R:التعليم,1.0,5,
+5 R:شبكات الحاسوب,1.0,5,
+1 R:التوظيف,1.0,5,
+
+
+
+S:يغطي هذا النوع من الشبكات عادة المناطق الجغرافية ... عدد أجهزة الحاسوب في هذا النوع 
+يتراوح على الأقل من جهازين إلى ...
+S:26 حزيران (يونيو) 2014 ... يعتبر الحاسوب من الركائز الأساسية التي يعتمد عليها العالم اليوم في وضع أساسي 
+حيث يستفيد منه الطلبة والعاملين والشركات والمؤسسات الحكومية ...
+S:Computer Networks is an international, archival journal providing a publication 
+vehicle for complete coverage of all topics of interest to those involved in the ...
+S:17 تموز (يوليو) 2011 ... سلسلة تعلم شبكات الحاسوب -6 -IP address و كيفيه تقسيم الشبكه.
+S:Computer Networks from University of Washington. The Internet is a computer 
+network that millions of people use every day. Understand the design strategies ...
+S:It is possible to connect a number of computers and other electronic devices to 
+create a computer network. The computers and devices which are part of the ...
+S:Computer Networks, 5/e is appropriate for Computer Networking or Introduction 
+to Networking courses at both the undergraduate and graduate level in ...
+S:تعرَّف على مواد التدريب والتعليم وفرص التوظيف في مجال شبكات الحاسوب التي 
+توفّرها أكاديمية Cisco Networking Academy في أكثر من 165 بلدًا حول العالم.
+S:Results 1 - 10 of 203 ... The Best Free Wireless Networking Software app downloads for Windows: 
+mHotspot Advanced IP Scanner Connectify Hotspot My WiFi ...
+S:15 كانون الأول (ديسمبر) 2014 ... تصاعدت في الفترة الأخيرة الهجمات الإلكترونية التي تستهدف شبكات الحاسوب 
+المتصلة بالإنترنت. ورغم أن الحماية المطلقة من الهجمات أمر بعيد المنال، ...
+S:Upgrade your computer networking system with top of the line systems, 
+computers, laptops, and components on eBay. Popular Brands include Apple, 
+Lenovo, ...
+S:Computer Networking: Principles, Protocols, and Practice was written by Dr. 
+Olivier Bonaventure of the. Université catholique de Louvain for teaching Local 
+Area ...
+S:شبكة الحاسوب computer network هي نظام لربط جهازين أو أكثر باستخدام إحدى تقنيات 
+نظم الاتصالات من أجل تبادل المعلومات والموارد والبيانات بينهاالمتاحة للشبكة مثل ...
+S:يحتوي هذا الكتاب علي مقدمة في شبكات الحاسوب وتصنبف الشبكات حسب : 1.الامتداد 
+المكاني. 2.التواضع الفيزيائي. 3.العلاقة بين المستخدمين. -طرائق التوصيل.
+S:The occupation code you requested, 15-1071.00 (Network and Computer 
+Systems Administrators), is no longer in use. In the future, please use 15-1142.00
+ ...
+S:E-Commerce concentration as part of the MS degree in Computer Networking in 
+the NCSU College of Engineering, Raleigh, North Carolina.
+S:We offer programs in Computer Science (BCOS) and Networking (BSCN). All are 
+excellent choices for a technical career. The difference is: Computer Science is ...
+S:Download this free 'Computer Networks' PDF of Chapter 1: Foundation, to learn 
+how both local and wide area networks (WANs) are no longer built solely to ...
+S:الشبكة الحاسوبية هي الوسيلة المثلى للاستفادة من موارد أكثر من جهاز حاسوب عن طريق 
+مشاركة هذه الموارد مثل مساحات التخزين و البيانات و أيضا مشاركه الأجهزه الأخرى مثل ...
+S:This is the computer science questions and answers section on "Networking " 
+with explanation for various interview, competitive examination and entrance test.
+
+NDCG:0.9839857345774855

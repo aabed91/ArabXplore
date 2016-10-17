@@ -1,0 +1,69 @@
+الأكسجين
+5 R:الهواء,1.0,5,
+5 R:الجدول الدوري,0.33333333333333326,2,
+R:الدورة,0.33333333333333326,2,
+2 R:الكربون,0.33333333333333326,2,
+R:الرئة,0.0,1,
+R:جلد,0.0,1,
+R:الاسكندرية,0.0,1,
+R:وزن,0.0,1,
+R:ضغط,0.0,1,
+R:العلي,0.0,1,
+R:استنشاق,0.0,1,
+4 R:عنصر كيميائي,0.0,1,
+5 R:الاكسجين,0.0,1,
+R:الجراحة,0.0,1,
+R:اليابان,0.0,1,
+R:سوء التغذية,0.0,1,
+R:حسون,0.0,1,
+R:التمثيل الضوئي,0.0,1,
+2 R:الكرة الارضية,0.0,1,
+R:رقم ذري,0.0,1,
+
+
+
+S:الأكسجين هو عنصر كيميائي رمزه O وعدده الذرّي 8، ويقع ضمن عناصر الدورة الثانية 
+وعلى رأس المجموعة السادسة عشر في الجدول الدوري، والتي تدعى باسم مجموعة الكالكوجين
+ ...
+S:The Element Oxygen - Basic Physical and Historical Information.
+S:Oxygen is a chemical element with symbol O and atomic number 8. It is a 
+member of the chalcogen group on the periodic table and is a highly reactive 
+nonmetal ...
+S:Watch full episodes of Oxygen shows including Pretty Strong, Bad Girls Club and 
+Snapped. Visit Very Real for lifestyle trends, celebrity news and dating tips.
+S:الأكسجين هو أحد العناصر الكيميائية الموجودة في المجموعة السادسة في الجدول الدوري (
+جدول مندلييف)، وله الرمز O ورقم ذري 8, وزنه الذري 15.9994 بالنسبة إلى الكربون 12C,
+ ...
+S:20 آب (أغسطس) 2015 ... LYRICS Video كلمات : رياض العلي - ألحان وتوزيع : علي حسون ميكس وماستر : مؤيد 
+الاطرش يرجى ضغط اشتراك في القناة لنبقى ع تواصل معكم بكل ماهو ...
+S:27 تموز (يوليو) 2015 ... قبل حوالي ملياري عام، لم يكن الهواء على سطح الكرة الأرضية يحتوي على الأكسجين. 
+لقد وقع شيء مذهل غير ذلك الوضع، وهو أكبر شيء يحدث في مسيرة ...
+S:17 تشرين الأول (أكتوبر) 2014 ... ماذا لو فقدت الأرض الأكسجين لـ 5 ثواني شاركنا رأيك بتعليق وإذا أعجبك الفيديو إعمل 
+لايك + اشتراك + مفضلة من يريد الإنضمام إلينا في صنع ...
+S:oXygen XML Editor is a cross platform tool setting the standard in XML editing. 
+This advanced XML editor provides the most intuitive tools for XML editing, ...
+S:16 نيسان (إبريل) 2016 ... علماء في اليابان يطورون طبقة جلد الكتروني لاصقة لقياس مستويات الأكسجين في 
+أعضاء الجسم المختلفة أثناء وبعد الجراحة.
+S:وحدة العلاج بالأكسجين بمركز الإسكندرية للأوعيه الدموية  , Alexandria, Egypt. 1206 
+likes · 7 talking about this · 10 were here. Hospital/Clinic.
+S:A professional magazine theme with responsive layout for enhanced mobile 
+browsing experience. Oxygen is a parent theme – a great base for creating child
+ ...
+S:The woman's ultimate source for the best workouts, fat loss, health, nutrition and 
+muscle-building information.
+S:Element Oxygen (O), Group 16, Atomic Number 8, p-block, Mass 15.999. Sources
+, facts, uses, scarcity (SRI), podcasts, alchemical symbols, videos and images.
+S:31 تشرين الأول (أكتوبر) 2014 ... ما زالت آلية إنتاج الأكسجين في عملية التمثيل الضوئي مجهولة السبب، رغم الدراسات 
+العديدة حول هذا الموضوع. ووجود أيون الكالسيوم في الموقع النشط غير ...
+S:Unify access to all your cloud storage. odrive combines everything together and 
+syncs it with your computer. Learn more. Available on: odrive + Oxygen Cloud.
+S:12 أيار (مايو) 2016 ... لذلك، منذ القرن التاسع عشر تعمّمت السمعة الجيّدة لمنافع "حمامات استنشاق الأكسجين 
+المضغوط" ليُستفاد منها في مشاكل سوء التغذية وانتفاخ الرئة ...
+S:Oxygen is a Group 16 element. While about one fifth of the atmosphere is oxygen 
+gas, the atmosphere of Mars contains only about 0.15% oxygen. Oxygen is the ...
+S:by Holli Riebeek • May 6, 2005. Oxygen is one of the most significant keys to 
+deciphering past climates. Oxygen comes in heavy and light varieties, or isotopes
+, ...
+S:Breathe Easier® About Life - The Best Financial Advisers for Generation X & Y on
+; oXYGen Financial on Twitter; oXYGen Financial on LinkedIn; oXYGen ...
+NDCG:0.9331852333144531
